@@ -3,7 +3,7 @@
 The book editor is a javascript browser application that allows editing an
 ebook in your browser and storing the ebook itself in a github repo.
 
-More information can be found in the
+More information can be found in the 
 [documentation](https://github.com/oerpub/documentation/) repository as well as
 in the [docs](docs) directory.
 
